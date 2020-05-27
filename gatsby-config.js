@@ -6,7 +6,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Baran Cezayirli | Technologist`,
+    title: `Jitin Tanwar | Technologist`,
     author: `Baran Cezayirli`,
     description: `With 10+ years of experience in various industries, I help tech
               startups from idea phase to high volumes. I design and build
