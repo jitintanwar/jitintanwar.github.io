@@ -1,0 +1,170 @@
+{
+  "contact": {
+    "phone": "+98-9818934568",
+    "email": "tanwarjitin@gmail.com",
+    "location": "New Delhi, India"
+  },
+  "skills": [
+    {
+      "title": "General",
+      "type": "percent",
+      "subskills": [
+        {
+          "name": "Application development",
+          "percent": 92
+        },
+        {
+          "name": "Backend Development",
+          "percent": 93
+        },
+        {
+          "name": "Dev Ops",
+          "percent": 81
+        },
+        {
+          "name": "Data Science",
+          "percent": 65
+        }
+      ]
+    },
+    {
+      "title": "Languages",
+      "type": "percent",
+      "subskills": [
+        {
+          "name": "C#",
+          "percent": 89
+        },
+        {
+          "name": "Javascript",
+          "percent": 82
+        },
+        {
+          "name": "Python",
+          "percent": 80
+        },
+        {
+          "name": "React.js",
+          "percent": 83
+        },
+        {
+          "name": "SQL",
+          "percent": 77
+        }
+      ]
+    },
+
+    {
+      "title": "Others",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Aws"
+        },
+        {
+          "name": "Aws lambda"
+        },
+        {
+          "name": "Aws step functions"
+        },
+        {
+          "name": "Aws services"
+        },
+        {
+          "name": "REST services"
+        },
+        {
+          "name": ".Net Core"
+        },
+        {
+          "name": "MVC"
+        },
+        {
+          "name": "Entity framework"
+        },
+        {
+          "name": "git"
+        },
+        {
+          "name": "svn"
+        }
+      ]
+    }
+  ],
+  "summary": "Highly focused technologist with a multidisciplinary skill set honed over 5+ years in the IT industry. A self-motivated  quick learner interested in learning new technologies and adapting quickly to new requirements and environments.I strive to build great products and can take an initial idea, tackle it from multiple angles and take it from something great to something incredible. I design and build scalable solutions.",
+  "education": [
+    {
+      "institution": "Jammia Millia Islamia, New Delhi, India",
+      "degree": "Computer Engineering",
+      "start": "2011",
+      "end": "2015"
+    },
+    {
+      "institution": "DAV Public School, Faridabad",
+      "degree": "10+2",
+      "start": "2010",
+      "end": "2009"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer II",
+      "company": "S&P Global Market Intelligence",
+      "description": "Built new tools for data collection that serves as a central application platform for the combined organization, replacing the legacy tools. These tools are used by thousands of clients for data collection and serve as the core applications.\nBuilt data pipelines to transform and persist the data. It ensures data availability at various data stores while data collected at collection tools. They are the backend services, which are using Kafka queues and are supporting a large number of data sets.",
+      "start": "2015",
+      "end": ""
+    }
+  ],
+  "social": [
+    {
+      "service": "linkedin",
+      "url": "https://www.linkedin.com/in/barancezayirli"
+    },
+    {
+      "service": "twitter",
+      "url": "https://twitter.com/TanwarJitin"
+    },
+    {
+      "service": "github",
+      "url": "https://github.com/jitintanwar"
+    },
+    {
+      "service": "facebook",
+      "url": "https://www.facebook.com/OfficialJitinTanwar"
+    },
+    {
+      "service": "instagram",
+      "url": "https://www.instagram.com/tfs_jitin/"
+    }
+  ],
+  "role": "Software Engineer II",
+  "projects": [
+    {
+      "name": "COVID19 Tracker",
+      "company": "Open source",
+      "description": "Built a dashboard using react.js for tracking the corona virus affected people globally and in India.",
+      "link": "https://wonderful-curran-bfa48d.netlify.app/"
+    },
+    {
+      "name": "Primary Industry Classifier",
+      "company": "Open source",
+      "description": "Built a machine learning model for multi-class text classification problem that identifies primary industry based on the business description of a company.",
+      "link": "https://github.com/jitintanwar/Primary-Industry-Classifier"
+    },
+    {
+      "name": "WhatsApp Text Sender",
+      "company": "Open source",
+      "description": "Used Python to automate the sending texts functionality on whatsapp. Built it during Diwali for sending well wishes to near and dear ones.",
+      "link": "https://github.com/jitintanwar/WhatsappTextSender"
+    }
+  ],
+  "other projects": [
+    {
+      "name": "COVID19 Tracker",
+      "company": "Open source",
+      "description": "Built a dashboard using react.js for tracking the corona virus affected people globally and in India.",
+      "link": "https://wonderful-curran-bfa48d.netlify.app/"
+    }
+  ],
+  "fullname": "Jitin Tanwar"
+}
